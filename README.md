@@ -20,6 +20,8 @@ Simply copy `miniProxy.php` to your web server (it's okay to rename it) and acce
 
 miniProxy doesn't require any configuration out of the box, but configuration options are available; see the top of `miniProxy.php` for details.
 
+If you want miniProxy to be the first thing your visitors see, you can change `miniProxy.php` to `index.php`!
+
 ## Known Limitations
 
 miniProxy has several known limitations. Some of them may be fixed in future releases. For now, they include:
