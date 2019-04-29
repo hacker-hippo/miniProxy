@@ -20,6 +20,8 @@ Simply copy `miniProxy.php` to your web server (it's okay to rename it) and acce
 
 miniProxy doesn't require any configuration out of the box, but configuration options are available; see the top of `miniProxy.php` for details.
 
+To see miniProxy for yourself, go to *[https://jtodom04-1.paiza-user.cloud/~ubuntu/index.php][2]*
+
 ## Known Limitations
 
 miniProxy has several known limitations. Some of them may be fixed in future releases. For now, they include:
